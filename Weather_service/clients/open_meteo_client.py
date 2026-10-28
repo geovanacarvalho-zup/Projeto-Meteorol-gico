@@ -31,7 +31,7 @@ HOURLY_VARS = [
 
 
 # BLOCO 3: DEFINIÇÃO DAS VARIÁVEIS METEOROLÓGICAS OBRIGATÓRIAS
-# Objetivo: Listar as 6 métricas climáticas exigidas pelo Tio Fazo no desafio
+# Objetivo: Listar as 6 métricas climáticas exigidas 
 
 #============================================================================================
 def fetch_open_meteo_data():
