@@ -1,6 +1,6 @@
 # 🌤️ Monitor de Clima de São Paulo
 
-Sistema meteorológico para coleta, armazenamento e análise de dados climáticos da cidade de São Paulo (-23.5505, -46.6333), cobrindo os últimos 90 dias de histórico e a previsão dos próximos 7 dias.
+Sistema meteorológico para coleta, armazenamento e análise de dados climáticos da cidade de São Paulo ,cobrindo os últimos 90 dias de histórico e a previsão dos próximos 7 dias.
 
 -----------------------------------------------------------------------------------------------------
 
